@@ -1,0 +1,13 @@
+The following is the order the tones are played in:
+C# - 1
+C - 2
+G - 3
+A - 4
+D# - 5
+A# - 6
+E - 7
+B - 8
+F - 9
+D - 10
+G# - 11
+F# - 12
